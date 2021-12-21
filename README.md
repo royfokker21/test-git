@@ -1,2 +1,5 @@
-# test-git
-Actividades Clase 6 Git
+### Repositorio prueba
+
+IEXE Repositorio prueba 
+
+#### Actividades GIT
