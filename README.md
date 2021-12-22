@@ -7,3 +7,5 @@ Repositorio prueba
 Ejercicios de git
 
 ![](git_log.jpg)
+
+![](git_network.jpg)
